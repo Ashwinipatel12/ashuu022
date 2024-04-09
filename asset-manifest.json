@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ashuu022/static/css/main.b8784e10.css",
-    "main.js": "/ashuu022/static/js/main.03276eff.js",
-    "static/js/592.a1d4ccdd.chunk.js": "/ashuu022/static/js/592.a1d4ccdd.chunk.js",
-    "static/media/leenasri.png": "/ashuu022/static/media/leenasri.e81df4e2669d0332147f.png",
-    "index.html": "/ashuu022/index.html",
-    "main.b8784e10.css.map": "/ashuu022/static/css/main.b8784e10.css.map",
-    "main.03276eff.js.map": "/ashuu022/static/js/main.03276eff.js.map",
-    "592.a1d4ccdd.chunk.js.map": "/ashuu022/static/js/592.a1d4ccdd.chunk.js.map"
+    "main.css": "/Ashwini-8/static/css/main.e6c13ad2.css",
+    "main.js": "/Ashwini-8/static/js/main.ff5425fd.js",
+    "static/js/453.2b44a68c.chunk.js": "/Ashwini-8/static/js/453.2b44a68c.chunk.js",
+    "index.html": "/Ashwini-8/index.html",
+    "main.e6c13ad2.css.map": "/Ashwini-8/static/css/main.e6c13ad2.css.map",
+    "main.ff5425fd.js.map": "/Ashwini-8/static/js/main.ff5425fd.js.map",
+    "453.2b44a68c.chunk.js.map": "/Ashwini-8/static/js/453.2b44a68c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8784e10.css",
-    "static/js/main.03276eff.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff5425fd.js"
   ]
 }
